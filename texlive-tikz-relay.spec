@@ -1,6 +1,6 @@
 Name:		texlive-tikz-relay
 Version:	64072
-Release:	1
+Release:	2
 Summary:	TikZ library for typesetting electrical diagrams
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikz-relay
